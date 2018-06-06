@@ -1,9 +1,11 @@
 # contracts
 standard-readme compliant
-ERC20-AMIS Token Project
+TIA-INDEX Token Project
 Join the Gitchat at https://gitter.im/ERC20-AMIS/Lobby
 
-What is an AMIS Token (AMIS)? The AMIS is a transactional vehicle acting as asset management instrument for decentralized services running on the ethereum blockchain. Main Features: Run on the ethereum blockchain Low supply of Tokens 37.000 (37 Tokens created so far) Used as multi-purposes mediation instrument to interact with other decentralized exchanges and smart contracts. Note: The new AMIS contract provides 20 Mio Tokens with 9 decimals; old AMIS contract deactivated from the exchange.
+The Token Industrial Average, or simply the TIA, is a ethereum token market index that shows how the 25 top companies based on ICO offers have traded during a standard trading session in the Ethereum market.
+
+Main Features: Run on the ethereum blockchain Low supply of Tokens 500000 (500000 Tokens created so far) Used as multi-purposes mediation instrument to interact with other decentralized exchanges and smart contracts. Note: - 
 
 Table of Contents
 WhitePaper
