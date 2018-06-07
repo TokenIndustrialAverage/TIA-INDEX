@@ -8,7 +8,7 @@
 > What is a TIA Token (TIA)? The Token Industrial Average, or simply the TIA, is a ethereum token market index that shows how the 25 top companies,after their ICO offers, have traded during a standard trading session.
 Main Features:
 Run on the ethereum blockchain
-Low supply of Tokens 500000 (500000 Tokens created so far)
+Low supply of Tokens 167,110 (167,110 Tokens created so far)
 Used as multi-purposes mediation instrument to interact with other decentralized exchanges and smart contracts.
 Note:
 
