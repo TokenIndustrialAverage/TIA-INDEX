@@ -63,15 +63,15 @@ interface tokenRecipient { function receiveApproval(address _from, uint256 _valu
 
 contract TokenERC20 {
     // Public variables of the token
-    //The Ethereum Token Average, or simply the ETA, 
+    //The Token Industrials Average, or simply the TIA, 
     //is a ethereum token market index that shows how the 25 top ico, 
     //companies based on ICO offers have traded during a standard trading session in the Ethereum market.
     //
-    string public name = 'Ethereum Token Average';
-    string public symbol ='ETA';
-    uint8 public decimals = 18;
+    string public name = 'Token Industrial Average';
+    string public symbol ='TIA';
+    uint8 public decimals = 7;
     // 18 decimals is the strongly suggested default, avoid changing it
-    uint256 public totalSupply = 500000000;
+    uint256 public totalSupply = 167110;
 
     // This creates an array with all balances
     mapping (address => uint256) public balanceOf;
@@ -217,10 +217,10 @@ contract TokenERC20 {
 }
 
 /**********************************************************/
-/*       'ETHEREUM TOKEN AVERAGE' TOKEN STARTS HERE       */
+/*       'TOKEN INDUSTRIALS AVERAGE' TOKEN STARTS HERE       */
 /**********************************************************/
 
-contract EthereumTokenAverage is owned, TokenERC20, SafeMath {
+contract TokenIndustrialsAverage is owned, TokenERC20, SafeMath {
 
     uint256 public sellPrice;
     uint256 public buyPrice;
